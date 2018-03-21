@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: form_maker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-01 16:22+0300\n"
+"PO-Revision-Date: 2018-01-08 19:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-SearchPath-0: C:/wamp/www/wordpress/wp-content/plugins/form-maker\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:320
+msgid "Street Address"
+msgstr "Ulice"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:323
+msgid "Street Address Line 2"
+msgstr "Ulice řádek 2"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:326
+msgid "City"
+msgstr "Město"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:329
+msgid "State / Province / Region"
+msgstr "Stát / provincie / Region"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:332
+msgid "Postal / Zip Code"
+msgstr "Poštovní / PSČ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:335
+msgid "Country"
+msgstr "Země"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewFormMakerSubmits.php:70
+msgid "Date"
+msgstr "Datum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewSelect_data_from_db.php:171
+msgid "Connection type"
+msgstr "Typ spojení"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewSubmissions_fm.php:599
+msgid "Show submission"
+msgstr "Zobrazit žádost"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:633
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1493
+msgid "Can not upload this type of file"
+msgstr "Je nám líto, ale nemáte možnost nahrát tento typ souboru"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:634
+msgid "Field is required"
+msgstr "Pole je povinné"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:635
+msgid "The "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:636
+msgid " value must be between "
+msgstr " hodnota musí být mezi "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:637
+msgid "Value must be between "
+msgstr "Hodnota musí být mezi "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:638
+msgid "Are you sure you want to clear saved data?"
+msgstr "Jste si jisti že chcete vymazat uložená data?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:639
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4894
+msgid "Your score should be less than"
+msgstr "Vaše skóre by měla být menší než"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:224
+msgid "Leave A Review?"
+msgstr "Napsat recenzi?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:225
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Doufáme že se vám líbil Wordpress %s!  Budete uvažovat o napsání recenze na "
+"Wordpress.org?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:226
+msgid "Sure! I'd love to!"
+msgstr "Jistě! Budeme rádi!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:227
+msgid "I've already left a review"
+msgstr "Již jsem napsal recenzi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:228
+msgid "Maybe Later"
+msgstr "Možná později"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:229
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:239
+msgid "Never show again"
+msgstr "Již nezobrazovat"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:235
+msgid "Hey! How's It Going?"
+msgstr "Hej! Jak se máš?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:236
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Děkujeme za použití WordPress %s! Doufáme že jste našli co jste hledali, "
+"pokud budete mít nějaké dotazy:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:237
+msgid "Check out User Guide"
+msgstr "Nahlédněte do Návodu k použití"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:238
+msgid "Get Some Help"
+msgstr "Najít pomoc"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1138
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1149
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1181
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1187
+msgid "Error, incorrect Security code."
+msgstr "Chyba, nesprávný bezpečnostní kód."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1204
+msgid "Your ip is blacklisted. Please contact the website administrator."
+msgstr "Vaše IP je na černé listině. Prosím, obraťte se na správce webu."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1375
+msgid "This is not a valid date format."
+msgstr "Toto není platná e-mailová adresa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1475
+msgid "The file exceeds the allowed size of"
+msgstr "Souboru přesáhne povolenou velikost"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1577
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:2364
+msgid "Error, file cannot be moved."
+msgstr "Chyba může soubor nelze přesunout."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1978
+msgid "This field "
+msgstr "Toto pole"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:2250
+msgid "Nothing was submitted."
+msgstr "Nic byl předložen."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3259
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3272
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:67
+msgid "Your form was successfully submitted."
+msgstr "Váš formulář byl úspěšně odeslán."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3267
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:64
+msgid "Error, email was not sent."
+msgstr "Chyba, byl e-mail neposlal."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:31
+msgid "Your email address is already verified."
+msgstr "Vaše e-mailová adresa je již ověřena."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:90
+msgid "Your email has been successfully verified."
+msgstr "Váš e-mail byl úspěšně ověřen."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:67
+msgid "Your email verification has timed out."
+msgstr "Váš e-mail ověření vypršel."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:95
+msgid "Verification link is invalid."
+msgstr "Ověřovací odkaz je neplatný."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:388
+msgid "Password values don't match"
+msgstr "Hesla nesouhlasí"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:741
+msgid "The email addresses don't match"
+msgstr "E-mailové adresy nesouhlasí"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:742
+msgid "This is not a valid email address."
+msgstr "Toto není platná e-mailová adresa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "January"
+msgstr "Leden"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "February"
+msgstr "Únor"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "March"
+msgstr "Březen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "April"
+msgstr "Duben"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "May"
+msgstr "Květen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "June"
+msgstr "Červen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "July"
+msgstr "Červenec"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "August"
+msgstr "Srpen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "September"
+msgstr "Září"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "October"
+msgstr "Říjen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "November"
+msgstr "Listopad"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "December"
+msgstr "Prosinec"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1801
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1929
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:2051
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4638
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4668
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4698
+msgid "Quantity"
+msgstr "Množství"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4175
+msgid ""
+"You cannot select former dates. Choose a date starting from the current one."
+msgstr "Nemůžete vybrat bývalé termín. Vyberte datum počínaje aktuální."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4556
+msgid "field is required."
+msgstr "pole je povinné."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4586
+msgid "The"
+msgstr "The"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4586
+msgid "value must be between"
+msgstr "hodnota musí být mezi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:29
+msgid "You have no permission to view submissions."
+msgstr "Nemáte oprávnění ke zobrazení žádostí"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:143
+msgid "Entries"
+msgstr "Zadání"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:145
+msgid "Views"
+msgstr "Zobrazení"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:147
+msgid "Conversion Rate"
+msgstr "Rychlost převodu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:150
+msgid "Export to"
+msgstr "Exportovat do"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:166
+msgid "GO"
+msgstr "Spustit"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:167
+msgid "Reset"
+msgstr "Obnovit"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:170
+msgid "of"
+msgstr "o"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:170
+msgid ""
+"submissions are not shown, as the field you sorted by is missing in those "
+"submissions."
+msgstr ""
+"žádné žádosti nejsou zobrazeny, protože zadané pole pro řazení v žádostech "
+"není."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:300
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:586
+msgid "From"
+msgstr "Od"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:305
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:588
+msgid "To"
+msgstr "Komu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:357
+msgid "Canceled"
+msgstr "Zrušeno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:358
+msgid "Cleared"
+msgstr "Smazáno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:359
+msgid "Cleared by payment review"
+msgstr "Smazáno po kontrole platby"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:360
+msgid "Completed"
+msgstr "Hotovo"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:361
+msgid "Denied"
+msgstr "Zakázáno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:362
+msgid "Failed"
+msgstr "Chyba"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:363
+msgid "Held"
+msgstr "Zadrženo"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:364
+msgid "In progress"
+msgstr "Probíhá"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:365
+msgid "On hold"
+msgstr "Zastaveno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:366
+msgid "Paid"
+msgstr "Zaplaceno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:367
+msgid "Partially refunded"
+msgstr "Částečně proplaceno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:368
+msgid "Pending verification"
+msgstr "Nutná verifikace"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:369
+msgid "Placed"
+msgstr "Umístěno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:370
+msgid "Processing"
+msgstr "Zpracování"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:371
+msgid "Refunded"
+msgstr "Proplaceno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:372
+msgid "Refused"
+msgstr "Odmítnuto"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:373
+msgid "Removed"
+msgstr "Vyjmuto"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:374
+msgid "Returned"
+msgstr "Vráceno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:375
+msgid "Reversed"
+msgstr "Přehozeno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:376
+msgid "Temporary hold"
+msgstr "Dočasně pozdrženo"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:377
+msgid "Unclaimed"
+msgstr "Nevyzvednuto"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:472
+msgid "Show on Map"
+msgstr "Zobrazit na mapě"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:505
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:754
+msgid "Total"
+msgstr "Celkem"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:510
+msgid "Show Matrix"
+msgstr "Zobrazit matici"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:560
+msgid "Statistics"
+msgstr "Statistika"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:564
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:568
+msgid "Select a Field"
+msgstr "Vyberte pole"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:583
+msgid "Select a Date"
+msgstr "Vyberte datum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:594
+msgid "Show"
+msgstr "Zobrazit"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:626
+msgid "Please select the field!"
+msgstr "Prosím vyberte pole!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:723
+msgid "Choices"
+msgstr "Volby"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:724
+msgid "Percentage"
+msgstr "Procento"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:725
+msgid "Count"
+msgstr "Počet"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:747
+msgid "Unanswered"
+msgstr "Nezodpovězeno"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:773
+msgid "Address"
+msgstr "Adresa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:781
+msgid "Longitude"
+msgstr "Zeměpisná délka"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:789
+msgid "Latitude"
+msgstr "Zeměpisná šířka"
+
+#~ msgid ""
+#~ "This field %s requires a unique entry and this value was already "
+#~ "submitted."
+#~ msgstr ""
+#~ "Toto pole %s vyžaduje jedinečný přístup a tato hodnota byla již podána."
+
+#, fuzzy
+#~ msgid "Error, file destination does not exist."
+#~ msgstr "Chyba, byl e-mail neposlal."
+
+#~ msgid "Title"
+#~ msgstr "Název"
+
+#~ msgid "First"
+#~ msgstr "Za prvé"
+
+#~ msgid "Last"
+#~ msgstr "Poslední"
+
+#~ msgid "Middle"
+#~ msgstr "na střed"
+
+#~ msgid "Area Code"
+#~ msgstr "Kód oblasti"
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefonní číslo"
+
+#~ msgid "Dollars"
+#~ msgstr "dolarů "
+
+#~ msgid "Cents"
+#~ msgstr "centů "

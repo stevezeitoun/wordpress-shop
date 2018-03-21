@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: form_maker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-01 16:24+0300\n"
+"PO-Revision-Date: 2017-03-01 16:24+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\form-"
+"maker\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:320
+msgid "Street Address"
+msgstr "Gatvė"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:323
+msgid "Street Address Line 2"
+msgstr "Gatvė Line 2"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:326
+msgid "City"
+msgstr "Miestas"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:329
+msgid "State / Province / Region"
+msgstr "Valstija / provincija / regionas"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:332
+msgid "Postal / Zip Code"
+msgstr "Pašto kodas / indeksas"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:335
+msgid "Country"
+msgstr "Šalis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewFormMakerSubmits.php:70
+msgid "Date"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewSelect_data_from_db.php:171
+msgid "Connection type"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewSubmissions_fm.php:599
+msgid "Show submission"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:633
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1493
+#, fuzzy
+msgid "Can not upload this type of file"
+msgstr "Atsiprašome, bet jums neleidžiama įkelti šį failo tipą."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:634
+#, fuzzy
+msgid "Field is required"
+msgstr "laukas būtinas."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:635
+msgid "The "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:636
+#, fuzzy
+msgid " value must be between "
+msgstr "vertė turi būti tarp "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:637
+#, fuzzy
+msgid "Value must be between "
+msgstr "vertė turi būti tarp "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:638
+msgid "Are you sure you want to clear saved data?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:639
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4894
+msgid "Your score should be less than"
+msgstr "Jūsų rezultatas turi būti mažesnis nei "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:224
+msgid "Leave A Review?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:225
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:226
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:227
+msgid "I've already left a review"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:228
+msgid "Maybe Later"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:229
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:239
+msgid "Never show again"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:235
+msgid "Hey! How's It Going?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:236
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:237
+msgid "Check out User Guide"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:238
+msgid "Get Some Help"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1138
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1149
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1181
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1187
+msgid "Error, incorrect Security code."
+msgstr "Klaida, neteisingą apsaugos kodą."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1204
+msgid "Your ip is blacklisted. Please contact the website administrator."
+msgstr ""
+"Jūsų ip yra juodajame sąraše. Prašome susisiekti su svetainės "
+"administratoriumi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1375
+#, fuzzy
+msgid "This is not a valid date format."
+msgstr "Tai nėra galiojantis elektroninio pašto adresą."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1475
+msgid "The file exceeds the allowed size of"
+msgstr "Failas viršija leistiną dydį"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1577
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:2364
+msgid "Error, file cannot be moved."
+msgstr "Klaida, failas negali būti perkeltas."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1978
+msgid "This field "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:2250
+msgid "Nothing was submitted."
+msgstr "Nieko nebuvo pateikta."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3259
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3272
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:67
+msgid "Your form was successfully submitted."
+msgstr "Jūsų forma buvo sėkmingai pateikta."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3267
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:64
+msgid "Error, email was not sent."
+msgstr "Klaida, laiškas nebuvo išsiųstas."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:31
+msgid "Your email address is already verified."
+msgstr "Jūsų elektroninio pašto adresas jau patikrintas."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:90
+msgid "Your email has been successfully verified."
+msgstr "Jūsų el.pašto buvo sėkmingai patikrinta."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:67
+msgid "Your email verification has timed out."
+msgstr "Jūsų el.pašto patikrinimas laikas baigėsi."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:95
+msgid "Verification link is invalid."
+msgstr "Patvirtinimo nuoroda yra neteisinga."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:388
+msgid "Password values don't match"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:741
+msgid "The email addresses don't match"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:742
+msgid "This is not a valid email address."
+msgstr "Tai nėra galiojantis elektroninio pašto adresą."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "January"
+msgstr "Sausis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "February"
+msgstr "Vasaris"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "March"
+msgstr "Kovas"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "April"
+msgstr "Balandis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "May"
+msgstr "Gegužės"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "June"
+msgstr "Birželis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "July"
+msgstr "Liepa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "August"
+msgstr "Rugpjūtis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "September"
+msgstr "Rugsėjis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "October"
+msgstr "Spalis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "November"
+msgstr "Lapkritis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "December"
+msgstr "Gruodis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1801
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1929
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:2051
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4638
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4668
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4698
+msgid "Quantity"
+msgstr "Kiekis"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4175
+msgid ""
+"You cannot select former dates. Choose a date starting from the current one."
+msgstr ""
+"Jūs negalite pasirinkti buvusius datos. Pasirinkite datą, pradedant nuo "
+"dabartinio."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4556
+msgid "field is required."
+msgstr "laukas būtinas."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4586
+msgid "The"
+msgstr "The"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4586
+msgid "value must be between"
+msgstr "vertė turi būti tarp "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:29
+msgid "You have no permission to view submissions."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:143
+msgid "Entries"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:145
+msgid "Views"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:147
+msgid "Conversion Rate"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:150
+msgid "Export to"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:166
+msgid "GO"
+msgstr "eiti "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:167
+msgid "Reset"
+msgstr "Atstatyti "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:170
+msgid "of"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:170
+msgid ""
+"submissions are not shown, as the field you sorted by is missing in those "
+"submissions."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:300
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:586
+msgid "From"
+msgstr "Nuo"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:305
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:588
+msgid "To"
+msgstr "Į"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:357
+msgid "Canceled"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:358
+msgid "Cleared"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:359
+msgid "Cleared by payment review"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:360
+msgid "Completed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:361
+msgid "Denied"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:362
+msgid "Failed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:363
+msgid "Held"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:364
+msgid "In progress"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:365
+msgid "On hold"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:366
+msgid "Paid"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:367
+msgid "Partially refunded"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:368
+msgid "Pending verification"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:369
+msgid "Placed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:370
+msgid "Processing"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:371
+msgid "Refunded"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:372
+msgid "Refused"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:373
+msgid "Removed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:374
+msgid "Returned"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:375
+msgid "Reversed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:376
+msgid "Temporary hold"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:377
+msgid "Unclaimed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:472
+msgid "Show on Map"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:505
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:754
+msgid "Total"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:510
+msgid "Show Matrix"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:560
+msgid "Statistics"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:564
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:568
+msgid "Select a Field"
+msgstr "Pasirinkite laukas"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:583
+msgid "Select a Date"
+msgstr "Pasirinkite datą"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:594
+msgid "Show"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:626
+msgid "Please select the field!"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:723
+msgid "Choices"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:724
+msgid "Percentage"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:725
+msgid "Count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:747
+msgid "Unanswered"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:773
+msgid "Address"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:781
+msgid "Longitude"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:789
+msgid "Latitude"
+msgstr ""
+
+#~ msgid ""
+#~ "This field %s requires a unique entry and this value was already "
+#~ "submitted."
+#~ msgstr ""
+#~ "Šis laukelis %s reikalauja unikalų įrašą, o ši vertė jau buvo pateiktas."
+
+#, fuzzy
+#~ msgid "Error, file destination does not exist."
+#~ msgstr "Klaida, laiškas nebuvo išsiųstas."
+
+#~ msgid "Title"
+#~ msgstr "Kreipinys"
+
+#~ msgid "First"
+#~ msgstr "Pirmas"
+
+#~ msgid "Last"
+#~ msgstr "Paskutinis"
+
+#~ msgid "Middle"
+#~ msgstr "Vidurinis"
+
+#~ msgid "Area Code"
+#~ msgstr "Rajono kodas"
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefono numeris"
+
+#~ msgid "Dollars"
+#~ msgstr "Dolerių"
+
+#~ msgid "Cents"
+#~ msgstr "Centų"

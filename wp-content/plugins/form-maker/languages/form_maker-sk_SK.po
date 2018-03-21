@@ -1,0 +1,3186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: form_maker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-21 14:54+0400\n"
+"PO-Revision-Date: 2017-11-21 14:54+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\form-"
+"maker\n"
+"X-Poedit-SearchPath-1: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\form-"
+"maker-stripe\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:98
+msgid "Form Maker"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:238
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:59
+msgid "Forms"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:239
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:964
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Submissions_fm.php:141
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Submissions_fm.php:157
+msgid "Submissions"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:242
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Blocked_ips_fm.php:55
+msgid "Blocked IPs"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:243
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:972
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:83
+msgid "Themes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:244
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Options_fm.php:23
+msgid "Options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:246
+msgid "Pro Version"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:248
+msgid "Uninstall"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:249
+msgid "Add-ons"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:258
+msgid "Number of items per page:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:362
+#, fuzzy
+msgid "Nothing found."
+msgstr "Nič bol predložený."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:363
+msgid "The captcha already has been created."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:364
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:442
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:737
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:2011
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:2137
+msgid "Update"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:365
+msgid "Add"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:366
+msgid "Add Field"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:367
+msgid "Edit Field"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:368
+msgid "This field type is disabled in free version."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:369
+msgid "Please upgrade to Paid version."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:370
+msgid "Please install "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:371
+msgid " add-on to use this feature."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:372
+msgid ""
+"To use this feature, please go to Form Options > Payment Options and select "
+"\"Stripe\" as the Payment Method."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:373
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4290
+msgid "Sunday"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:374
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4290
+msgid "Monday"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:375
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4290
+msgid "Tuesday"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:376
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4290
+msgid "Wednesday"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:377
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4290
+msgid "Thursday"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:378
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4290
+msgid "Friday"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:379
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4290
+msgid "Saturday"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:380
+msgid "Leave empty to set the width to 100%."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:382
+msgid ""
+"The free version is limited up to 7 fields to add. If you need this "
+"functionality, you need to buy the commercial version."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:404
+msgid "Do you want to delete selected items?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:405
+msgid "You must select at least one item."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:441
+msgid "You must select a form"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:527
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:667
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1489
+#, fuzzy
+msgid "Can not upload this type of file"
+msgstr "Je nám ľúto, ale nemáte možnosť nahrať tento typ súboru."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:668
+#, fuzzy
+msgid "Field is required"
+msgstr "pole je povinné."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:669
+msgid "The "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:670
+#, fuzzy
+msgid " value must be between "
+msgstr "hodnota musí byť medzi "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:671
+#, fuzzy
+msgid "Value must be between "
+msgstr "hodnota musí byť medzi "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:672
+msgid "Are you sure you want to clear saved data?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:673
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:3538
+msgid "Your score should be less than"
+msgstr "Vaše skóre by mala byť menšia ako "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:674
+#, fuzzy
+msgid "This is not a valid time value."
+msgstr "Toto nie je platná e-mailová adresa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:675
+#, fuzzy
+msgid "This is not a valid number value."
+msgstr "Toto nie je platná e-mailová adresa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:676
+#, fuzzy
+msgid "This is not a valid date value."
+msgstr "Toto nie je platná e-mailová adresa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:677
+#, fuzzy, php-format
+msgid "The year must be between %s and %s"
+msgstr "hodnota musí byť medzi "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:722
+msgid ""
+"Oops! Seems like you installed the update over a quite old version of Form "
+"Maker. Unfortunately, this version is deprecated.<br />Please contact Web-"
+"Dorado support team at support@web-dorado.com. We will take care of this "
+"issue as soon as possible."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:902
+#, php-format
+msgid "This section allows you to %s."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:910
+msgid "Upgrade to paid version"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:952
+msgid ""
+"Form Maker plugin is a modern and advanced tool for easy and fast creating "
+"of a WordPress Form. The backend interface is intuitive and user friendly "
+"which allows users far from scripting and programming to create WordPress "
+"Forms."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:956
+msgid "Easy to Use"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:957
+msgid ""
+"This responsive form maker plugin is one of the most easy-to-use form "
+"builder solutions available on the market. Simple, yet powerful plugin "
+"allows you to quickly and easily build any complex forms."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:960
+msgid "Customizable Fields"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:961
+msgid ""
+"All the fields of Form Maker plugin are highly customizable, which allows "
+"you to change almost every detail in the form and make it look exactly like "
+"you want it to be."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:965
+msgid ""
+"You can view the submissions for each form you have. The plugin allows to "
+"view submissions statistics, filter submission data and export in csv or xml "
+"formats."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:968
+msgid "Multi-Page Forms"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:969
+msgid ""
+"With the form builder plugin you can create muilti-page forms. Simply use "
+"the page break field to separate the pages in your forms."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:973
+msgid ""
+"The WordPress Form Maker plugin comes with a wide range of customizable "
+"themes. You can choose from a list of existing themes or simply create the "
+"one that better fits your brand and website."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:979
+msgid "Installing"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:984
+msgid "Creating a new Form"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:989
+msgid "Configuring Form Options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:994
+msgid "Description of The Form Fields"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:998
+msgid "Selecting Options from Database"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1004
+msgid "Publishing the Created Form"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1009
+msgid "Blocking IPs"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1014
+msgid "Managing Submissions"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1019
+msgid "Publishing Submissions"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1118
+#, php-format
+msgid "Please update the %s add-on to start using."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1119
+#, php-format
+msgid "Please update the %s add-ons to start using."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1179
+#, php-format
+msgid ""
+"%s advises: Install brand new FREE %s plugin to keep your forms and website "
+"safe."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1179
+msgid "More details"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1179
+msgid "Backup WD"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1244
+msgid "Support Forum"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:1245
+msgid "Rate"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Blocked_ips_fm.php:25
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Submissions_fm.php:61
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:46
+msgid "Delete"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Blocked_ips_fm.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:41
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:47
+msgid "deleted"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:28
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:148
+msgid "Publish"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:29
+msgid "published"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:32
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:148
+msgid "Unpublish"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:33
+msgid "unpublished"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:36
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:42
+msgid "Duplicate"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:43
+msgid "duplicated"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:347
+msgid "Create new form"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:481
+msgid "options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:812
+msgid "layout"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Manage_fm.php:856
+msgid "display options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Submissions_fm.php:53
+msgid "Block IPs"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Submissions_fm.php:54
+msgid "Blocked"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Submissions_fm.php:57
+msgid "Unblock IPs"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Submissions_fm.php:58
+msgid "Unblocked"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Submissions_fm.php:62
+msgid "Deleted"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:221
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1394
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2060
+msgid "Global Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:222
+msgid "Header"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:223
+msgid "Content"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:224
+msgid "Inputbox"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:225
+msgid "Choices"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:226
+msgid "General Buttons"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:227
+msgid "Pagination"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:228
+msgid "Buttons"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:229
+msgid "Close(Minimize) Button"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:230
+msgid "Minimize Text"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:231
+msgid "Other"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:232
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2913
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:251
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2454
+#, fuzzy
+msgid "Top"
+msgstr "Pre"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:252
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:271
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2463
+msgid "Right"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:253
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2472
+msgid "Bottom"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:254
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:271
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2481
+msgid "Left"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:271
+#, fuzzy
+msgid "Center"
+msgstr "Centov"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:313
+msgid "Font Family"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:322
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:434
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:590
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:641
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:891
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1096
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1187
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1236
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1359
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1426
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1611
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2034
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2049
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2100
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2276
+msgid "Width"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:330
+msgid "Width (for scrollbox, popup form types)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:338
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:450
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:718
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:810
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:843
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:867
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:899
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:969
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1468
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1653
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1840
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1958
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2133
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2309
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2525
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2696
+msgid "Padding"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:342
+msgid "e.g. 3px 5px or 3% 5%"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:347
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:459
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:727
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:819
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:852
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:876
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:908
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:978
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1112
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1203
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1252
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1375
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1477
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1662
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1849
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1967
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2142
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2318
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2534
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2705
+msgid "Margin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:352
+msgid "e.g. 5px 10px or 5% 10%"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:356
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:477
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:736
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:987
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1121
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1261
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1486
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1561
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1671
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1746
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1858
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1976
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2151
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2226
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2327
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2402
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2543
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2609
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2714
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2780
+msgid "Border"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:364
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:485
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:744
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:995
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1129
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1269
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1494
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1569
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1679
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1754
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1866
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1984
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2159
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2234
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2335
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2410
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2551
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2617
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2722
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2788
+msgid "Border Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:368
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:403
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:429
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:454
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:464
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:489
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:547
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:570
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:619
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:689
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:702
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:722
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:732
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:805
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:814
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:823
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:838
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:847
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:856
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:871
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:880
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:903
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:912
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:955
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:964
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:973
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:982
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:999
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1034
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1049
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1091
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1116
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1133
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1167
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1182
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1207
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1231
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1256
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1273
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1308
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1323
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1351
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1379
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1421
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1463
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1472
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1481
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1498
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1532
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1547
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1556
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1573
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1606
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1648
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1657
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1666
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1683
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1717
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1732
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1741
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1758
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1793
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1819
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1844
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1853
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1870
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1911
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1937
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1962
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1971
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1988
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2053
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2095
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2128
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2137
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2146
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2163
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2197
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2212
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2221
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2238
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2271
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2304
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2313
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2322
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2339
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2373
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2388
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2397
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2414
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2458
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2467
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2476
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2485
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2494
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2520
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2529
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2538
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2555
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2595
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2604
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2621
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2656
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2682
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2700
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2709
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2726
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2766
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2775
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2826
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2882
+msgid "e.g."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:373
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:494
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:752
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1004
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1138
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1278
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1503
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1578
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1688
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1763
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1875
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1993
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2168
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2243
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2344
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2419
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2560
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2626
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2731
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2796
+msgid "Border Type"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:382
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:503
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:761
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1013
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1147
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1287
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1512
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1587
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1697
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1772
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1884
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2002
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2177
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2252
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2353
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2428
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2569
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2635
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2740
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2805
+msgid "Border Width"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:390
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:511
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:769
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1021
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1155
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1212
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1296
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1384
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1520
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1705
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1892
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2010
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2185
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2361
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2577
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2748
+msgid "Border Radius"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:398
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1029
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1163
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1304
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1528
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1713
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2193
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2369
+msgid "Box Shadow"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:409
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:608
+msgid "General Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:416
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:581
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:657
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1401
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2025
+msgid "Alignment"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:425
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:615
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:834
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:951
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1087
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1178
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1227
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1319
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1417
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1543
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1602
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1728
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1789
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1907
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2091
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2208
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2267
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2384
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2490
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2591
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2652
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2762
+msgid "Background Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:442
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:649
+msgid "Width (for topbar form type)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:468
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2687
+msgid "Text Align"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:519
+msgid "Title Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:526
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:558
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:624
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:784
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:934
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1442
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1627
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1798
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1916
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2067
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2499
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2661
+msgid "Font Size"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:534
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:632
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:792
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:942
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1450
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1635
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1806
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1924
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2075
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2507
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2669
+msgid "Font Weight"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:543
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:566
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:710
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:801
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:960
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1459
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1552
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1644
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1737
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1815
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1933
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2124
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2217
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2300
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2393
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2516
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2600
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2678
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2771
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2822
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2845
+msgid "Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:552
+msgid "Description Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:575
+msgid "Image Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:598
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:926
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1104
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1195
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1244
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1367
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1434
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1619
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1824
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1942
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2108
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2284
+msgid "Height"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:666
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1054
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1328
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2859
+msgid "Background URL"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:675
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1063
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1337
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2868
+msgid "Background Repeat"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:684
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1346
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2877
+msgid "Background Position"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:697
+msgid "Background Size"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:777
+msgid "Mini labels (name, phone, address, checkbox, radio) Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:828
+msgid "Section Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:861
+msgid "Section Column Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:885
+msgid "Footer Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1038
+msgid "Dropdown additional"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1045
+msgid "Appearance"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1080
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:517
+msgid "Single Choice"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1172
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1313
+msgid "Checked Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1220
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:518
+msgid "Multiple Choice"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1410
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:520
+msgid "Submit"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1537
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1722
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2202
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2378
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2585
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2756
+msgid "Hover Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1595
+msgid "Reset"
+msgstr "obnoviť "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1782
+msgid "Active"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1832
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1950
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2116
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2292
+msgid "Line Height"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:1900
+msgid "Deactive"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2018
+msgid "Steps"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2042
+msgid "Percentage"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2084
+msgid "Next Button Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2260
+msgid "Previous Button Parameters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2445
+msgid "Position"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2815
+msgid "Deactive Text"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2831
+msgid "Font Style"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2839
+msgid "Required"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2853
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:538
+msgid "File Upload"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2890
+msgid "Grading"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/controllers/Themes_fm.php:2896
+msgid "Text Width"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/Submissions_fm.php:351
+msgid "Street Address"
+msgstr "Ulica"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/Submissions_fm.php:354
+msgid "Street Address Line 2"
+msgstr "Ulica riadok 2"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/Submissions_fm.php:357
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:42
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:201
+msgid "City"
+msgstr "Mesto"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/Submissions_fm.php:360
+msgid "State / Province / Region"
+msgstr "Štát / provincia / región"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/Submissions_fm.php:363
+msgid "Postal / Zip Code"
+msgstr "Poštové / PSČ"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/Submissions_fm.php:366
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:44
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:211
+msgid "Country"
+msgstr "Krajina"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Blocked_ips_fm.php:76
+msgid "IP"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Blocked_ips_fm.php:116
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Submissions_fm.php:484
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Themes_fm.php:96
+msgid "Do you want to delete selected item?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMSelectDataFromDb.php:163
+msgid "Connection type"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMShortocde.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMShortocde.php:89
+msgid "Unpublished"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMShortocde.php:73
+msgid "Front end submissions are disabled in free version."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FormMakerSubmits.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:515
+msgid "Date"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:84
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Themes_fm.php:70
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Themes_fm.php:145
+msgid "Title"
+msgstr "Názov"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:85
+msgid "Type"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:87
+msgid "Shortcode"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:511
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:594
+msgid "BASIC FIELDS"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:512
+msgid "Single Line Text"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:513
+msgid "Paragraph Text"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:514
+#, fuzzy
+msgid "Number"
+msgstr "November"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:516
+#, fuzzy
+msgid "Select"
+msgstr "Vyberte dátum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:519
+msgid "Recaptcha"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:521
+msgid "Simple Captcha"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:523
+msgid "USER INFO FIELDS"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:524
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:39
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:186
+msgid "Name"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:525
+msgid "Email"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:526
+msgid "Phone"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:527
+msgid "Address"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:528
+msgid "Mark on Map"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:529
+#, fuzzy
+msgid "Country List"
+msgstr "Krajina"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:530
+msgid "Date of Birth"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:532
+msgid "LAYOUT FIELDS"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:533
+msgid "HTML"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:534
+msgid "Section"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:535
+msgid "Page"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:537
+msgid "ADVANCED"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:539
+#, fuzzy
+msgid "Map"
+msgstr "Máj"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:540
+msgid "Time"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:541
+msgid "Receive Copy"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:542
+msgid "Date Range"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:543
+msgid "Stars"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:544
+msgid "Rating"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:545
+msgid "Slider"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:546
+msgid "Range"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:547
+msgid "Grades"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:548
+#, fuzzy
+msgid "Table of Fields"
+msgstr "Vyberte pole "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:549
+msgid "Hidden Input"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:550
+msgid "Custom Button"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:551
+msgid "Password"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:552
+#, fuzzy
+msgid "Phone-Area Code"
+msgstr "Kód oblasti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:553
+msgid "Arithmetic Captcha"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:555
+msgid "PAYMENT"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:556
+msgid "Price"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:557
+msgid "Payment Select"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:558
+msgid "Payment Single Choice"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:559
+msgid "Payment Multiple Choice"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:560
+msgid "Shipping"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:561
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:4192
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:635
+msgid "Total"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:562
+msgid "Stripe"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:596
+msgid "Toggle panel:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:743
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:2017
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:2143
+msgid "Back to Form"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:1544
+msgid "Form Maker Stripe Integration"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Manage_fm.php:1545
+#, php-format
+msgid "Please install %s add-on to use this feature."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Options_fm.php:29
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Themes_fm.php:143
+msgid "Save"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Options_fm.php:68
+#, php-format
+msgid "%s for your site from ReCaptcha website."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Options_fm.php:68
+msgid "Get ReCaptcha Site and Secret Keys"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Options_fm.php:113
+#, php-format
+msgid "Uninstall %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Submissions_fm.php:187
+msgid "Show Filters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Submissions_fm.php:187
+msgid "Hide Filters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Themes_fm.php:71
+msgid "Default"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Themes_fm.php:151
+#, fuzzy
+msgid "Title: "
+msgstr "Názov"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/Themes_fm.php:224
+msgid ""
+"This theme is outdated. Theme Options are only available in new themes "
+"provided by Form Maker. You can use Custom CSS panel to edit form styling, "
+"or alternatively select a new theme for your form."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:2305
+msgid ""
+"You cannot select former dates. Choose a date starting from the current one."
+msgstr "Nemôžete vybrať bývalej termín. Vyberte dátum počnúc aktuálne."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:2882
+msgid "field is required."
+msgstr "pole je povinné."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:2912
+msgid "The"
+msgstr "The"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:2912
+msgid "value must be between"
+msgstr "hodnota musí byť medzi "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:3038
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:3120
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:3202
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:2209
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:2396
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:2589
+msgid "Quantity"
+msgstr "Množstvo"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:3951
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4012
+msgid "Afghanistan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4013
+msgid "Albania"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4014
+msgid "Algeria"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4015
+msgid "Andorra"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4016
+msgid "Angola"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4017
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4018
+msgid "Argentina"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4019
+msgid "Armenia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4020
+msgid "Australia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4021
+msgid "Austria"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4022
+msgid "Azerbaijan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4023
+msgid "Bahamas"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4024
+msgid "Bahrain"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4025
+msgid "Bangladesh"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4026
+msgid "Barbados"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4027
+msgid "Belarus"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4028
+msgid "Belgium"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4029
+msgid "Belize"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4030
+msgid "Benin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4031
+msgid "Bhutan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4032
+msgid "Bolivia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4033
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4034
+msgid "Botswana"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4035
+msgid "Brazil"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4036
+msgid "Brunei"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4037
+msgid "Bulgaria"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4038
+msgid "Burkina Faso"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4039
+msgid "Burundi"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4040
+msgid "Cambodia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4041
+msgid "Cameroon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4042
+msgid "Canada"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4043
+msgid "Cape Verde"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4044
+msgid "Central African Republic"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4045
+msgid "Chad"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4046
+msgid "Chile"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4047
+msgid "China"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4048
+msgid "Colombia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4049
+msgid "Comoros"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4050
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4051
+msgid "Congo"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4052
+msgid "Costa Rica"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4053
+msgid "Cote d'Ivoire"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4054
+msgid "Croatia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4055
+msgid "Cuba"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4056
+msgid "Curacao"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4057
+msgid "Cyprus"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4058
+msgid "Czech Republic"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4059
+msgid "Denmark"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4060
+msgid "Djibouti"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4061
+msgid "Dominica"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4062
+msgid "Dominican Republic"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4063
+msgid "East Timor (Timor Timur)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4064
+msgid "Ecuador"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4065
+msgid "Egypt"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4066
+msgid "El Salvador"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4067
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4068
+msgid "Eritrea"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4069
+msgid "Estonia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4070
+msgid "Ethiopia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4071
+msgid "Fiji"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4072
+msgid "Finland"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4073
+msgid "France"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4074
+msgid "Gabon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4075
+msgid "Gambia, The"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4076
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4230
+msgid "Georgia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4077
+msgid "Germany"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4078
+msgid "Ghana"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4079
+msgid "Greece"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4080
+msgid "Grenada"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4081
+msgid "Guatemala"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4082
+msgid "Guinea"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4083
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4084
+msgid "Guyana"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4085
+msgid "Haiti"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4086
+msgid "Honduras"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4087
+msgid "Hong Kong"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4088
+msgid "Hungary"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4089
+msgid "Iceland"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4090
+msgid "India"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4091
+msgid "Indonesia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4092
+msgid "Iran"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4093
+msgid "Iraq"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4094
+msgid "Ireland"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4095
+msgid "Israel"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4096
+msgid "Italy"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4097
+msgid "Jamaica"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4098
+msgid "Japan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4099
+msgid "Jordan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4100
+msgid "Kazakhstan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4101
+msgid "Kenya"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4102
+msgid "Kiribati"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4103
+msgid "Korea, North"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4104
+msgid "Korea, South"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4105
+msgid "Kuwait"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4106
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4107
+msgid "Laos"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4108
+msgid "Latvia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4109
+msgid "Lebanon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4110
+msgid "Lesotho"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4111
+msgid "Liberia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4112
+msgid "Libya"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4113
+msgid "Liechtenstein"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4114
+msgid "Lithuania"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4115
+msgid "Luxembourg"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4116
+msgid "Macedonia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4117
+msgid "Madagascar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4118
+msgid "Malawi"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4119
+msgid "Malaysia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4120
+msgid "Maldives"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4121
+msgid "Mali"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4122
+msgid "Malta"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4123
+msgid "Marshall Islands"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4124
+msgid "Mauritania"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4125
+msgid "Mauritius"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4126
+msgid "Mexico"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4127
+msgid "Micronesia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4128
+msgid "Moldova"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4129
+msgid "Monaco"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4130
+msgid "Mongolia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4131
+msgid "Morocco"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4132
+msgid "Mozambique"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4133
+msgid "Myanmar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4134
+msgid "Namibia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4135
+msgid "Nauru"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4136
+msgid "Nepal"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4137
+msgid "Netherlands"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4138
+msgid "New Zealand"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4139
+msgid "Nicaragua"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4140
+msgid "Niger"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4141
+msgid "Nigeria"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4142
+msgid "Norway"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4143
+msgid "Oman"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4144
+msgid "Pakistan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4145
+msgid "Palau"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4146
+msgid "Panama"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4147
+msgid "Papua New Guinea"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4148
+msgid "Paraguay"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4149
+msgid "Peru"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4150
+msgid "Philippines"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4151
+msgid "Poland"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4152
+msgid "Portugal"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4153
+msgid "Qatar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4154
+msgid "Romania"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4155
+msgid "Russia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4156
+msgid "Rwanda"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4157
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4158
+msgid "Saint Lucia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4159
+msgid "Saint Vincent"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4160
+msgid "Samoa"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4161
+msgid "San Marino"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4162
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4163
+msgid "Saudi Arabia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4164
+msgid "Senegal"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4165
+msgid "Serbia and Montenegro"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4166
+msgid "Seychelles"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4167
+msgid "Sierra Leone"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4168
+msgid "Singapore"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4169
+msgid "Slovakia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4170
+msgid "Slovenia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4171
+msgid "Solomon Islands"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4172
+msgid "Somalia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4173
+msgid "South Africa"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4174
+msgid "Spain"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4175
+msgid "Sri Lanka"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4176
+msgid "Sudan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4177
+msgid "Suriname"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4178
+msgid "Swaziland"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4179
+msgid "Sweden"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4180
+msgid "Switzerland"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4181
+msgid "Syria"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4182
+msgid "Taiwan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4183
+msgid "Tajikistan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4184
+msgid "Tanzania"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4185
+msgid "Thailand"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4186
+msgid "Togo"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4187
+msgid "Tonga"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4188
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4189
+msgid "Tunisia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4190
+msgid "Turkey"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4191
+msgid "Turkmenistan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4192
+msgid "Tuvalu"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4193
+msgid "Uganda"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4194
+msgid "Ukraine"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4195
+msgid "United Arab Emirates"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4196
+msgid "United Kingdom"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4197
+msgid "United States"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4198
+msgid "Uruguay"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4199
+msgid "Uzbekistan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4200
+msgid "Vanuatu"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4201
+msgid "Vatican City"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4202
+msgid "Venezuela"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4203
+msgid "Vietnam"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4204
+msgid "Yemen"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4205
+msgid "Zambia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4206
+msgid "Zimbabwe"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4220
+msgid "Alabama"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4221
+msgid "Alaska"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4222
+msgid "Arizona"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4223
+msgid "Arkansas"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4224
+msgid "California"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4225
+msgid "Colorado"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4226
+msgid "Connecticut"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4227
+msgid "Delaware"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4228
+msgid "District Of Columbia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4229
+msgid "Florida"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4231
+msgid "Hawaii"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4232
+msgid "Idaho"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4233
+msgid "Illinois"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4234
+msgid "Indiana"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4235
+msgid "Iowa"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4236
+msgid "Kansas"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4237
+msgid "Kentucky"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4238
+msgid "Louisiana"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4239
+msgid "Maine"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4240
+msgid "Maryland"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4241
+msgid "Massachusetts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4242
+msgid "Michigan"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4243
+msgid "Minnesota"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4244
+msgid "Mississippi"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4245
+msgid "Missouri"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4246
+msgid "Montana"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4247
+msgid "Nebraska"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4248
+msgid "Nevada"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4249
+msgid "New Hampshire"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4250
+msgid "New Jersey"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4251
+msgid "New Mexico"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4252
+msgid "New York"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4253
+msgid "North Carolina"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4254
+msgid "North Dakota"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4255
+msgid "Ohio"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4256
+msgid "Oklahoma"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4257
+msgid "Oregon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4258
+msgid "Pennsylvania"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4259
+msgid "Rhode Island"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4260
+msgid "South Carolina"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4261
+msgid "South Dakota"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4262
+msgid "Tennessee"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4263
+msgid "Texas"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4264
+msgid "Utah"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4265
+msgid "Vermont"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4266
+msgid "Virginia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4267
+msgid "Washington"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4268
+msgid "West Virginia"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4269
+msgid "Wisconsin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4270
+msgid "Wyoming"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4284
+msgid "Done"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4285
+msgid "Prev"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4286
+msgid "Next"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4287
+msgid "Today"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "January"
+msgstr "Január"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "February"
+msgstr "Február"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "March"
+msgstr "Marec"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "April"
+msgstr "Apríl"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "May"
+msgstr "Máj"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "June"
+msgstr "Jún"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "July"
+msgstr "Júl"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "August"
+msgstr "August"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "September"
+msgstr "September"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "October"
+msgstr "Október"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "November"
+msgstr "November"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4288
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3479
+msgid "December"
+msgstr "December"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+#, fuzzy
+msgid "Jan"
+msgstr "Január"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+msgid "Feb"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+#, fuzzy
+msgid "Mar"
+msgstr "Marec"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+#, fuzzy
+msgid "Apr"
+msgstr "Apríl"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+#, fuzzy
+msgid "Jun"
+msgstr "Jún"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+#, fuzzy
+msgid "Jul"
+msgstr "Júl"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+#, fuzzy
+msgid "Aug"
+msgstr "August"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+msgid "Sep"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+#, fuzzy
+msgid "Oct"
+msgstr "Október"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+msgid "Nov"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4289
+msgid "Dec"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4291
+msgid "Sun"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4291
+msgid "Mon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4291
+#, fuzzy
+msgid "Tue"
+msgstr "The"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4291
+msgid "Wed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4291
+#, fuzzy
+msgid "Thu"
+msgstr "The"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4291
+msgid "Fri"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4291
+msgid "Sat"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4292
+msgid "Su"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4292
+msgid "Mo"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4292
+msgid "Tu"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4292
+msgid "We"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4292
+#, fuzzy
+msgid "Th"
+msgstr "The"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4292
+#, fuzzy
+msgid "Fr"
+msgstr "Od"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/framework/WDW_FM_Library.php:4292
+msgid "Sa"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:18
+msgid "Something went wrong when trying to display this form."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:23
+msgid "The form you are trying to view does not have Embedded display type."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:30
+msgid "The form you are trying to view has been unpublished."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1082
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1094
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1124
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1131
+msgid "Error, incorrect Security code."
+msgstr "Chyba, nesprávny bezpečnostný kód."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1149
+msgid "Your ip is blacklisted. Please contact the website administrator."
+msgstr "Vaša IP je na čiernej listine. Prosím, obráťte sa na správcu webu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1374
+#, fuzzy
+msgid "This is not a valid date format."
+msgstr "Toto nie je platná e-mailová adresa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1474
+msgid "The file exceeds the allowed size of"
+msgstr "Súboru presiahne povolenú veľkosť"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1599
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:2362
+msgid "Error, file cannot be moved."
+msgstr "Chyba môže súbor nemožno presunúť."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:1961
+#, fuzzy, php-format
+msgid "This field %s requires a unique entry."
+msgstr "Toto pole %s vyžaduje jedinečný prístup a táto hodnota bola už podaná."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:2221
+msgid "Nothing was submitted."
+msgstr "Nič bol predložený."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:3217
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:3229
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:141
+msgid "Your form was successfully submitted."
+msgstr "Váš formulár bol úspešne odoslaný."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_maker.php:3224
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:138
+msgid "Error, email was not sent."
+msgstr "Chyba, bol e-mail neposlal."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/form_submissions.php:369
+msgid "You have no permissions to download"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/verify_email.php:27
+msgid "Your email address is already verified."
+msgstr "Vaša e-mailová adresa je už overená."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/verify_email.php:41
+msgid "Your email verification has timed out."
+msgstr "Váš e-mail overenie vypršal."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/verify_email.php:56
+msgid "Your email has been successfully verified."
+msgstr "Váš e-mail bol úspešne overený."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/verify_email.php:61
+msgid "Verification link is invalid."
+msgstr "Overovací odkaz je neplatný."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:554
+msgid "Password values don't match"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:1074
+msgid "The email addresses don't match"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:1075
+msgid "This is not a valid email address."
+msgstr "Toto nie je platná e-mailová adresa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3743
+msgid "AM"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_maker.php:3744
+msgid "PM"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:14
+msgid "You have no permission to view submissions."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:237
+#, php-format
+msgid ""
+"%s of %s submissions are not shown, as the field you sorted by is missing in "
+"those submissions."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:399
+msgid "From"
+msgstr "Od"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:406
+msgid "To"
+msgstr "Pre"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:463
+msgid "Canceled"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:464
+msgid "Cleared"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:465
+msgid "Cleared by payment review"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:466
+msgid "Completed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:467
+msgid "Denied"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:468
+msgid "Failed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:469
+msgid "Held"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:470
+msgid "In progress"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:471
+msgid "On hold"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:472
+msgid "Paid"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:473
+msgid "Partially refunded"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:474
+msgid "Pending verification"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:475
+msgid "Placed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:476
+msgid "Processing"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:477
+msgid "Refunded"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:478
+msgid "Refused"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:479
+msgid "Removed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:480
+msgid "Returned"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:481
+msgid "Reversed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:482
+msgid "Temporary hold"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:483
+msgid "Unclaimed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:596
+msgid "Show on Map"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:647
+msgid "Show Matrix"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/form_submissions.php:775
+msgid "Please select the field!"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/wd.php:72
+msgid "Overview"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/deactivate.php:35
+msgid "Technical problems / hard to use"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/deactivate.php:39
+msgid "Free version is limited"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/deactivate.php:43
+msgid "Premium is expensive"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/deactivate.php:47
+msgid "Upgrading to paid version"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/deactivate.php:51
+msgid "Temporary deactivation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/notices.php:211
+msgid "Leave A Review?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/notices.php:212
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/notices.php:213
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/notices.php:214
+msgid "I've already left a review"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/notices.php:215
+msgid "Maybe Later"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/notices.php:216
+msgid "Never show again"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:27
+msgid "Welcome"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:31
+msgid "User Guide"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:35
+msgid "Deals"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:39
+msgid "Support"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:43
+msgid "Submit Your  Idea"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:47
+msgid "Forum"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:79
+msgid "Wordpress form builder plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:80
+msgid ""
+"Form Maker is a modern and advanced tool for creating WordPress forms easily "
+"and fast."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:85
+msgid "WordPress Photo Gallery plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:86
+msgid ""
+"Photo Gallery is a fully responsive WordPress Gallery plugin with advanced "
+"functionality."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:91
+msgid "WordPress calendar plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:92
+msgid ""
+"Organize and publish your events in an easy and elegant way using Event "
+"Calendar WD."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:97
+msgid "WD Google Maps plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:98
+msgid ""
+"Google Maps WD is an intuitive tool for creating Google maps with advanced "
+"markers, custom layers and overlays for   your website."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:103
+msgid "WordPress slider plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:104
+msgid ""
+"Create responsive, highly configurable sliders with various effects for your "
+"WordPress site."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:109
+msgid "WordPress event calendar plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:110
+msgid ""
+"Spider Event Calendar is a highly configurable product which allows you to "
+"have multiple organized events."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:115
+msgid "WordPress Instagram Feed plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:116
+msgid ""
+"WD Instagram Feed is a user-friendly tool for displaying user or hashtag-"
+"based feeds on your website."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:169
+msgid "Not set"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:174
+msgid "On"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:176
+msgid "Off"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:185
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:193
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:200
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:207
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:215
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:222
+msgid "N/A"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:220
+msgid " MByte"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:227
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:234
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:241
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:251
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:229
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:236
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:243
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:246
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/overview.php:251
+msgid "No"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/subscribe.php:43
+msgid "Your name &"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/subscribe.php:44
+msgid "Email address"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/subscribe.php:48
+msgid "Site URL"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/subscribe.php:49
+msgid "Wordpress version"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/includes/subscribe.php:53
+msgid "List of plugins"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview.php:6
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview.php:8
+#, php-format
+msgid "CONGRATS! You've successfully installed %s WordPress plugin."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:12
+#, php-format
+msgid "Get %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:13
+msgid "plugins"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:14
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:58
+msgid "for"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:14
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:58
+msgid "only"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:16
+msgid "Save 80%"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:57
+msgid "Get all 11 themes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_deals.php:60
+msgid "Save 70%"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_overview_support.php:3
+#, php-format
+msgid ""
+"You may contact us by filling in this form or by email %s any time you need "
+"professional support or have any questions. You can also fill in the form to "
+"leave your comments or feedback."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/wd/templates/display_subscribe.php:11
+#, php-format
+msgid ""
+"Allow %s to collect some usage data. This will allow  you to get more out of "
+"your plugin experience - get awesome customer support, receive exclusive "
+"deals and discounts on premium products and more. You can choose to skip "
+"this step, %s will still work just fine."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:191
+#, fuzzy
+msgid "Address line 1"
+msgstr "Ulica riadok 2"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:41
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:196
+#, fuzzy
+msgid "Address line 2"
+msgstr "Ulica riadok 2"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:206
+msgid "State"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:45
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:216
+msgid "Zip code"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:171
+msgid "Card number"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:176
+msgid "Expiration date"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/controller.php:181
+msgid "CVC"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/fm_stripe.php:166
+#, fuzzy
+msgid "Field is required."
+msgstr "pole je povinné."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/fm_stripe.php:181
+#, php-format
+msgid ""
+"Please install Form Maker plugin version %s and higher to start using Stripe "
+"add-on."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/view.php:20
+#, php-format
+msgid "%s for your site."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/view.php:20
+msgid "Get Stripe Publishable and Secret Keys"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/view.php:131
+msgid "Month"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker-stripe/view.php:144
+msgid "Year"
+msgstr ""
+
+#~ msgid "GO"
+#~ msgstr "ísť "
+
+#, fuzzy
+#~ msgid "Error, file destination does not exist."
+#~ msgstr "Chyba, bol e-mail neposlal."
+
+#~ msgid "First"
+#~ msgstr "Meno"
+
+#~ msgid "Last"
+#~ msgstr "Priezvisko"
+
+#~ msgid "Middle"
+#~ msgstr "Stredná"
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefónne číslo"
+
+#~ msgid "Dollars"
+#~ msgstr "Dolárov"
